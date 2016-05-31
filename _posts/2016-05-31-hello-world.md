@@ -1,11 +1,11 @@
 ---
 description: Description of my first post.
-dateModified: '2016-05-31T16:42:53.509Z'
-datePublished: '2016-05-31T16:43:38.985Z'
+dateModified: '2016-05-31T16:44:17.228Z'
+datePublished: '2016-05-31T16:44:17.699Z'
 title: Hello World
 author: []
-starred: false
 sourcePath: _posts/2016-05-31-hello-world.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
