@@ -1,0 +1,14 @@
+layout_spectrum: 0.3599872381892055
+typography_spectrum: 0.7930473953019828
+color:
+  brandStrength: 0.70118618151173
+  lightness: 0.34709028666839004
+  saturation: 0.9806877400260419
+  rhythmicContrast: 0.7986699214670807
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: BeerBook
